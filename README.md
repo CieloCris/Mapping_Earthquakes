@@ -10,13 +10,12 @@ Mapping Earthquakes with Java Scrip
 
 ## Results
 
-![Alt text](/Resources/0.png "imagen0")
 
 ![Alt text](/Resources/1.png "imagen1")
 
-![Alt text](/Resources/2.png "imagen2")
+![Alt text](/Resources/8.png "imagen2")
 
-![Alt text](/Resources/3.png "imagen3")
+![Alt text](/Resources/9.png "imagen3")
 
 ![Alt text](/Resources/4.png "imagen4")
 
