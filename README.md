@@ -17,23 +17,24 @@ The purpose of this challenge was to visualize earthquake data from the United S
 
 ## Results
 
-The following images shows our map with its styles and propieties:
+The following images shows our map with all styles and characteristic:
 
-#### Street map with all propieties.
+#### Street map with all features
 ![Alt text](/Resources/1.png "imagen1")
 
-#### Satellite map
+#### Dark mode map
 ![Alt text](/Resources/8.png "imagen2")
 
-#### Dark mode map
+#### Satellite map
 ![Alt text](/Resources/9.png "imagen3")
 
-#### The map allows the user to change layers with the control panel
+#### Magnitude scale
 ![Alt text](/Resources/4.png "imagen4")
 
-#### Magnitude scale
+#### The map allows the user to change layers with the control panel
 ![Alt text](/Resources/5.png "imagen5")
 
 ![Alt text](/Resources/6.png "imagen6")
 
+#### This street map s
 ![Alt text](/Resources/7.png "imagen7")
