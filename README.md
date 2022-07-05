@@ -1,5 +1,4 @@
-# Mapping_Earthquakes
-Mapping Earthquakes with Java Scrip
+# Mapping Earthquakes Analysis
 
 ## Overview
 
@@ -20,14 +19,19 @@ The purpose of this challenge was to visualize earthquake data from the United S
 
 The following images shows our map with its styles and propieties:
 
+#### Street map with all propieties.
 ![Alt text](/Resources/1.png "imagen1")
 
+#### Satellite map
 ![Alt text](/Resources/8.png "imagen2")
 
+#### Dark mode map
 ![Alt text](/Resources/9.png "imagen3")
 
+#### The map allows the user to change layers with the control panel
 ![Alt text](/Resources/4.png "imagen4")
 
+#### Magnitude scale
 ![Alt text](/Resources/5.png "imagen5")
 
 ![Alt text](/Resources/6.png "imagen6")
