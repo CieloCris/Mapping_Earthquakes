@@ -34,7 +34,8 @@ The following images shows our map with all styles and characteristic:
 #### The map allows the user to change layers with the control panel
 ![Alt text](/Resources/5.png "imagen5")
 
+### This street maps present tectonic plates
 ![Alt text](/Resources/6.png "imagen6")
 
-#### This street map s
+#### This street map show earthquakes
 ![Alt text](/Resources/7.png "imagen7")
