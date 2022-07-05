@@ -3,13 +3,22 @@ Mapping Earthquakes with Java Scrip
 
 ## Overview
 
-
+The purpose of this challenge was to visualize earthquake data from the United States Geological Survey with tools such as MapBox API, Leaflet.js, JavaScript, HTML, CSS, and D3.js. To accomplish our goal, We created a map that displays tectonic plates and earthquakes in different styles. 
 
 ## Resources
+
+- Visual Studio Code
+- MaxBox API
+- JavaScript
+- Leaflet.js
+- D3.js
+- HTML
+- CSS
 
 
 ## Results
 
+The following images shows our map with its styles and propieties:
 
 ![Alt text](/Resources/1.png "imagen1")
 
